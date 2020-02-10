@@ -3,6 +3,11 @@
 /* ------------------------------------------ */
 
 .tableblock {
-    width: 75%;
-    padding: 62px 0 40px 48px;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    background-color: #F2F2F2;
+    width: 60.875rem;
+    height: 31.375rem;
+    padding: 89px 44px 83px 44px;
 }
