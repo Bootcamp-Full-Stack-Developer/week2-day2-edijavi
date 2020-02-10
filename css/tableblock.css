@@ -4,10 +4,9 @@
 
 .tableblock {
     display: flex;
+    flex-direction: row;
     justify-content: center;
-    align-items: stretch;
-    background-color: #F2F2F2;
-    width: 60.875rem;
-    height: 31.375rem;
-    padding: 89px 44px 83px 44px;
+    align-items: center;
+    height: 100vh;
+    background-color: #F5FAFD;
 }

@@ -7,16 +7,22 @@
     min-width: 9.375rem;
     min-height: 2.813rem;
     border-style: none ;
+    box-sizing: border-box;
+    border: 0.581197px solid #5B6B82;
     border-radius: 2.32479px;
-    padding:0px 44px 38px 47px;
-    background-color: #0091ff;
-    color: #fff;
+    padding: 10.13px 21.78px 10.74px 23.42px;
+    background-color: #FFFFFF;
+    color: #5B6B82;
     font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.813rem;
+    line-height: 1rem;
+    text-transform: uppercase;
     cursor: pointer;
   }
   
   .btn:hover {
-    background-color: #333;
+    background-color: #3CCF8E;
+    color: #FFFFFF;
   }
